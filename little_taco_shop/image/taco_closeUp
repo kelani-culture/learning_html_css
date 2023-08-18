@@ -1,0 +1,23 @@
+--2023-08-18 20:02:28--  https://github.com/gitdagray/html_course/blob/main/10_lesson_starter/img/tacos_close_up_400x260.png?raw=true
+Resolving github.com (github.com)... 140.82.121.4
+Connecting to github.com (github.com)|140.82.121.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://github.com/gitdagray/html_course/raw/main/10_lesson_starter/img/tacos_close_up_400x260.png [following]
+--2023-08-18 20:02:30--  https://github.com/gitdagray/html_course/raw/main/10_lesson_starter/img/tacos_close_up_400x260.png
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://raw.githubusercontent.com/gitdagray/html_course/main/10_lesson_starter/img/tacos_close_up_400x260.png [following]
+--2023-08-18 20:02:30--  https://raw.githubusercontent.com/gitdagray/html_course/main/10_lesson_starter/img/tacos_close_up_400x260.png
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.110.133, 185.199.111.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204140 (199K) [image/png]
+Saving to: ‘tacos_close_up_400x260.png?raw=true’
+
+     0K .......... .......... .......... .......... .......... 25%  238K 1s
+    50K .......... .......... .......... .......... .......... 50%  243K 0s
+   100K .......... .......... .......... .......... .......... 75%  263K 0s
+   150K .......... .......... .......... .......... ......... 100%  254K=0.8s
+
+2023-08-18 20:02:32 (249 KB/s) - ‘tacos_close_up_400x260.png?raw=true’ saved [204140/204140]
+
